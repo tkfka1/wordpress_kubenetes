@@ -11,7 +11,8 @@
 - Secret
 - PVC
 - Service/Ingress
-+
+
+추가로
 - ssl
 
 ### Mysql APP
@@ -41,9 +42,13 @@ vm 4 (ubuntu 22.04.2 LTS)
 use vagrant
 
 DB user: root
+
 DB passwd : test
+
 패스워드 수정은 kustomize 수정
+
 ssl 수정도 마찬가지로 kustomize
+
 ## 1. storageclass 만들기
 
 nfs-subdir-external-provisioner 이용 
