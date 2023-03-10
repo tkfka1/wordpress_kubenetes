@@ -34,7 +34,7 @@ windows virtualbox 7
 
 vm 4 (ubuntu 22.04.2 LTS)
 
-![스크린샷 2023-03-10 오후 12.09.25.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b07d6b03-fdc3-4af5-8962-fb4ddc47071b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-10_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.09.25.png)
+![vm.png](/img/vm.png)
 
 use vagrant
 
@@ -160,13 +160,13 @@ kubectl get ing
 
 ing  ip로 접속
 
-![스크린샷 2023-03-10 오후 12.23.28.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b129bb0-05fe-4671-83d2-859345b94caf/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-10_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.23.28.png)
+![ing.png](/img/ing.png)
 
 접속 후 기본 설치
 
-![스크린샷 2023-03-10 오후 12.19.09.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c78b3ab6-388f-412b-b233-dcbcf8422cd4/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-10_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.19.09.png)
+![install.png](/img/install.png)
 
-![스크린샷 2023-03-10 오후 12.22.18.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/80738c32-30d3-48c1-8b2a-2e51aa685a67/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-10_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.22.18.png)
+![main.png](/img/main.png)
 
 ## 전부 삭제
 
