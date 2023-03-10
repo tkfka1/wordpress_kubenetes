@@ -11,6 +11,8 @@
 - Secret
 - PVC
 - Service/Ingress
++
+- ssl
 
 ### Mysql APP
 
@@ -40,8 +42,8 @@ use vagrant
 
 DB user: root
 DB passwd : test
-패스워드 수정은 kustermize 수정
-
+패스워드 수정은 kustomize 수정
+ssl 수정도 마찬가지로 kustomize
 ## 1. storageclass 만들기
 
 nfs-subdir-external-provisioner 이용 
