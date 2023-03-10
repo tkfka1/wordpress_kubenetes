@@ -28,7 +28,7 @@ Kustomize는 가능
 
 # 사용법
 
-### 테스트 환경
+## 0. 테스트 환경
 
 windows virtualbox 7
 
