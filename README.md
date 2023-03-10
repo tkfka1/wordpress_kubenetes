@@ -125,7 +125,8 @@ exit
 mysql -h mydb-1.mydb -u root -p -e 'SELECT * FROM testdb.testtb'
 ```
 
-[https://www.youtube.com/watch?v=Pb0DwwvGKaA&list=PLqqWF8gP3uQbB2kMECrOwQwmKIADoXCii&index=1](https://www.youtube.com/watch?v=Pb0DwwvGKaA&list=PLqqWF8gP3uQbB2kMECrOwQwmKIADoXCii&index=1)
+[![스테이트풀셋](http://img.youtube.com/vi/Pb0DwwvGKaA/0.jpg)](https://www.youtube.com/watch?v=xfVLrjpzEi0&list=PLqqWF8gP3uQbB2kMECrOwQwmKIADoXCii&index=1)
+
 
 ### 스테이트풀셋 레플리카 개수 변경
 
@@ -148,7 +149,8 @@ watch -n1 -d kubectl top pods
 kubectl exec {pod name} -- sha256sum /dev/zero
 ```
 
-[https://www.youtube.com/watch?v=y-PfrbRSm2k&list=PLqqWF8gP3uQbB2kMECrOwQwmKIADoXCii&index=3](https://www.youtube.com/watch?v=y-PfrbRSm2k&list=PLqqWF8gP3uQbB2kMECrOwQwmKIADoXCii&index=3)
+[![스테이트풀셋](http://img.youtube.com/vi/y-PfrbRSm2k/0.jpg)](https://www.youtube.com/watch?v=xfVLrjpzEi0&list=PLqqWF8gP3uQbB2kMECrOwQwmKIADoXCii&index=2)
+
 
 ## 3. 접속 테스트
 
