@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: mydb
+  labels:
+    app: mydb
+    app.kubernetes.io/name: mydb
+spec:
+  ports:
+  - name: mysql
+    port: 3306
+  clusterIP: None
+  selector:
+    app: mydb
+    app.kubernetes.io/name: mydb

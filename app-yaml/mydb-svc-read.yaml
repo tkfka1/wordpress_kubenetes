@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: mydb-read
+  labels:
+    app: mydb
+    app.kubernetes.io/name: mydb
+spec:
+  ports:
+  - name: mysql
+    port: 3306
+  selector:
+    app: mydb
+    app.kubernetes.io/name: mysql
