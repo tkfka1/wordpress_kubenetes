@@ -38,6 +38,10 @@ vm 4 (ubuntu 22.04.2 LTS)
 
 use vagrant
 
+DB user: root
+DB passwd : test
+패스워드 수정은 wordpress-deployment 수정
+
 ## 1. storageclass 만들기
 
 nfs-subdir-external-provisioner 이용 
