@@ -33,9 +33,15 @@ Kustomize는 가능
 
 ## 0. 테스트 환경
 
-windows virtualbox 7
+windows10 pro
+
+virtualbox 7.01
 
 vm 4 (ubuntu 22.04.2 LTS)
+
+kubernetes 1.25.6
+
+kubespray 2.21
 
 ![vm.png](/img/vm.png)
 
