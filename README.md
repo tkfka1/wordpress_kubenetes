@@ -133,7 +133,7 @@ mysql -h mydb-1.mydb -u root -p -e 'SELECT * FROM testdb.testtb'
 kubectl scale statefulset mydb  --replicas=3
 ```
 
-[https://www.youtube.com/watch?v=xfVLrjpzEi0&list=PLqqWF8gP3uQbB2kMECrOwQwmKIADoXCii&index=2](https://www.youtube.com/watch?v=xfVLrjpzEi0&list=PLqqWF8gP3uQbB2kMECrOwQwmKIADoXCii&index=2)
+[![스테이트풀셋](http://img.youtube.com/vi/xfVLrjpzEi0&list=PLqqWF8gP3uQbB2kMECrOwQwmKIADoXCii&index=2/0.jpg)](https://www.youtube.com/watch?v=xfVLrjpzEi0&list=PLqqWF8gP3uQbB2kMECrOwQwmKIADoXCii&index=2)
 
 ### hpa 모니터링
 
